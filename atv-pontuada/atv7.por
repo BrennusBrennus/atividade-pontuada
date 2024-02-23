@@ -33,7 +33,6 @@ programa {
 		escreva("Produto: ", produto)
 		escreva("\nTotal: R$", valorProduto * quantidade, "0")
 		escreva("\nDesconto unitário: R$", desconto,"0")
-		escreva("\nTotal desconto: ", descontoReais, "0")
 		escreva("\nTotal a pagar: R$", valorFinal, "0")
 	}
 }
@@ -42,7 +41,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 818; 
+ * @POSICAO-CURSOR = 968; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
